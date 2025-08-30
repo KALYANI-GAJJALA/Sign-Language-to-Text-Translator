@@ -1,1 +1,1 @@
-# Sign-Language-to-Text-Translator
+# Hand Sign to Text conversion
